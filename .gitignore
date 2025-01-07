@@ -18,4 +18,4 @@ build/
 .next/
 .vercel/
 .parcel-cache/
-public/static/
+public/static/*.code-workspace
