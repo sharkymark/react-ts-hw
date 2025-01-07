@@ -36,7 +36,7 @@ npx tsc --init
 "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
-  "test": "react-scripts test",}
+  "test": "react-scripts test"}
 ```
 
 1. install react-scripts
@@ -114,6 +114,5 @@ npx create-react-app . --template typescript
 
 ## License
 
-[MIT](LICENSE)
-```
+MIT LICENSE
 
