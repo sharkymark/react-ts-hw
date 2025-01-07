@@ -1,0 +1,14 @@
+{
+    "name": "React + TypeScript",
+    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:18",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "dbaeumer.vscode-eslint",
+          "esbenp.prettier-vscode",
+          "ms-vscode.vscode-typescript-next"
+        ]
+      }
+    }
+  }
+  
